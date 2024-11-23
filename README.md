@@ -68,4 +68,4 @@ Avoid obstacles and collect health packs to stay in the game.
 First player to lose all their health loses the game!
 
 **License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+See the LICENSE file for details.
